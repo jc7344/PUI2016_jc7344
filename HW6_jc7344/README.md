@@ -1,4 +1,9 @@
 ## Homework 6
+## Assigment 1
+For this assignment I worked with Nonie, Laura, Alexey and Kristi. I started by following Professor Federica’s skeleton Notebook’s instructions. However, I encountered problems when opening the downloaded data from compute. 
+I decided to email professor Federica and her instructions were really helpful both for assignment 2 and for my own study guide. For the last parts of the assignment **Kristi Korsberg** and I worked really closely. She was instrumental for plotting all merged data and for fitting a line and a second degree polynomial to the data. 
+
+
 ### Assignment 2
 
 https://www.authorea.com/users/106326/articles/133244/_show_article
