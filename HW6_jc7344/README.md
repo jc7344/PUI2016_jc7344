@@ -12,6 +12,8 @@ For this Assignment Alexey, Laura, Nonie and Misha incorporated the suggestions 
 
 The base for our Authorea document was a combination of Alexey’s, Laura’s and my own notebook.  All team members collaborated on the write-up.
 
-# README
+# FBB
 
-your authorea article is set to private and I cannot see it.
+your authorea article is set to private and I cannot see it.  laura changed the setting after I asked you all to.
+
+the analysis is good, but you did not explit any of the capabilities of authorea: you did not put the plots in the article context, but put them all at the end, you did not write the equations for H0 Ha (or the z test, which is also an easy equation) you did not have the authors listed as authors so the paper does not link you your accounts and is not in your portfolio, etc. look at the comments int he paper itself.
