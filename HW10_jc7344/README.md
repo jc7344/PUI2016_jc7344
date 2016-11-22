@@ -8,7 +8,7 @@ For this assignment I completed the notebook along with Dr. Sina Kashuk. I worke
 
 Assignment_2
 
-For this assignment I worked closely with Alexey. We performed Global autocorrelation analysis for summer **(0.64335490815356511, 4220.5552980795601)** and for winter **(0.66023249858156818, 1600.8324238675889)**. Additionally, we followed Dr. Kashuk’s instructions and learnt that Moran’s I measures the global spatial autocorrelation. For this reason, we conclude that  I statistic for summer rides was 0.643 and for winter is 0.660. I statistics is not close to our expected value for summer rides and winter rides. 
+For this assignment I worked closely with Alexey. I had a lot of problems when attempting to perform both the Spatial Autocorrelation and LISA. Alexey and i worked on his notebook and We performed Global autocorrelation analysis for summer **(0.64335490815356511, 4220.5552980795601)** and for winter **(0.66023249858156818, 1600.8324238675889)**. Additionally, we followed Dr. Kashuk’s instructions and learnt that Moran’s I measures the global spatial autocorrelation. For this reason, we conclude that  I statistic for summer rides was 0.643 and for winter is 0.660. I statistics is not close to our expected value for summer rides and winter rides. 
 
 **Results for Local autocorrelation with hot and cold spots:**
 
